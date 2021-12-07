@@ -8,7 +8,7 @@ function unzip_file(zipfile::String, out_path::String)::Nothing
       catch e
           println(e)
       finally
-          close(f)
+          close(f) 
       end
   end
   close(r)
