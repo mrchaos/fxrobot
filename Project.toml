@@ -1,3 +1,8 @@
+name = "FxRobot"
+uuid = "af7af4a5-c277-40ae-ac30-fb86e78bed64"
+authors = ["Sungho Park <mrchaos@naver.com>"]
+version = "0.1.0"
+
 [deps]
 Arrow = "69666777-d1a9-59fb-9406-91d4454c9d45"
 CSV = "336ed68f-0bac-5ca0-87d4-7b16caf5d00b"
